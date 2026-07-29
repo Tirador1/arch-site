@@ -1,0 +1,7 @@
+# whitelist: only the demo site is ever published
+*
+!.gitignore
+!index.html
+!CNAME
+!img/
+!img/*.jpg
